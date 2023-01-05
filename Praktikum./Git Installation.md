@@ -27,3 +27,6 @@ Sebagian besar versi MacOS sudah Gitterinstal, dan Anda dapat mengaktifkannya me
 2. Setelah penginstal dimulai, ikuti petunjuk yang diberikan hingga penginstalan selesai.
 3. Buka command prompt "terminal" dan ketik git versionuntuk memverifikasi Git telah diinstal.
 
+Untuk mengetahui apakah git berhasil diinstall maka kita dapat membuka terminal / git bash kemudian ketikan git, apabila terdapat seperti tampilan dibawah maka git berhasil diinstall
+https://user-images.githubusercontent.com/49604034/210847079-6a1288c9-7bf0-4d9a-b680-8d6d05a94997.png
+
